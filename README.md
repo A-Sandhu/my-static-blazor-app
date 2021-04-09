@@ -8,8 +8,6 @@ description: "Apps that can be used with as a starting point for some MS Learn M
 urlFragment: "https://github.com/MicrosoftDocs/mslearn-staticwebapp-dotnet"
 ---
 
-# Official Microsoft Sample
-
 Follow the hands-on tutorial to [publish a Blazor WebAssembly app and .NET API with Azure Static Web Apps](https://docs.microsoft.com/learn/modules/publish-app-service-static-web-app-api-dotnet/?WT.mc_id=mslearn_staticwebapp-github-aapowell).
 
 ## Static Web App
